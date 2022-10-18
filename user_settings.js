@@ -1,0 +1,10 @@
+loadsetting("tempunitswitch",false,viewer);
+loadsetting("lengthunitswitch",true,viewer);
+loadsetting("xaxischeckbox",true,viewer);
+loadsetting("yaxischeckbox",true,viewer);
+loadsetting("zaxischeckbox",true,viewer);
+loadsetting("primemeridiancheckbox",false,viewer);
+loadsetting("primeparallelcheckbox",false,viewer);
+loadsetting("allmeridianscheckbox",false,viewer);
+loadsetting("allparallelscheckbox",false,viewer);
+loadsetting("darkmodeswitch",false,viewer);
